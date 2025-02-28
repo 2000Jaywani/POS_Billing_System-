@@ -1,0 +1,37 @@
+.navbar{
+    background-color:  black;
+    width: 100vw;
+    height: 75px;    
+    
+}
+
+button{
+    background: none;
+    border:  none;
+    color: #f4f1f1;
+    cursor: pointer;
+
+}
+.nav-buttons{
+
+    display: flex;
+    justify-content: space-around;
+    width: 15vw;
+    margin-left: 100px;
+}
+
+
+.left-nav{
+    display: flex;
+    justify-content: space-between;
+    width: 30vw;
+    margin-right: 200px;
+  
+}
+
+.right-nav{
+    display: flex;
+    justify-content: space-around;
+    width: 15vw;
+    margin-right: 100px;
+}

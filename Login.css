@@ -1,0 +1,176 @@
+.login_set{
+    background-image: url(https://restaurantkronborg.dk/wp-content/uploads/2023/09/Restaurant-Kronborg-Billeder-58-1024x683.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.form-container{
+    background:  linear-gradient(rgb(249, 247, 247),rgb(241, 241, 248));
+    background-color: white ;
+    padding: 60px;
+    border-radius: 10px;
+    box-shadow: 0 10px 15px rgb(37, 38, 39);
+
+}
+
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+input {
+    /* width: 100%; */
+    width: px;
+    padding: 6px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    transition: border-color 0.3s ease;    
+
+}
+
+
+/* button{
+    padding: 10px;
+    background-color:#27a844;
+    color: rgb(247, 243, 243);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+    height: 5vh;
+    /* width: 49vh; */
+    /* width: 390px;
+    font-weight: bold; */
+/* } */ 
+
+
+.btn_register{
+ 
+    background-color :rgb(65, 127, 243);
+    width: 390px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://www.shutterstock.com/image-photo/delicious-organic-fruits-eggs-juice-260nw-635999894.jpg);
+    width: 100vw;
+    height: 85vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.form-container{
+    background:  linear-gradient(rgb(249, 247, 247),rgb(241, 241, 248));
+    background-color: white ;
+    padding: 60px;
+    border-radius: 10px;
+    box-shadow: 0 10px 15px rgb(37, 38, 39);
+
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    padding: 6px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    transition: border-color 0.3s ease;    
+
+}
+
+
+button{
+    padding: 10px;
+    background-color:#27a844;
+    color: rgb(247, 243, 243);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+    height: 5vh;
+    width: 49vh;
+    font-weight: bold;
+}
+
+.line{
+    font-family: fantasy;
+    font-size: 55px;
+    color: rgb(79, 101, 244);
+}
+
+.btn_register{
+ 
+    background-color :rgb(65, 127, 243);
+} */

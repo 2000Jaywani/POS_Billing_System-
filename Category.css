@@ -1,0 +1,53 @@
+.container12{
+    background: linear-gradient(rgb(245, 245, 247) , rgb(111, 109, 109)) ;
+    box-shadow: 0 10px 15px rgb(37, 38, 39);
+    border-radius:  3px;
+    padding: 8px;
+}
+
+#btn{
+    margin-left: 70%;
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    margin: 20px 0;
+    font-size: 18px;
+    text-align: center;
+    box-shadow: 0px 15px 20px rgba(69, 66, 66, 0.1);
+    overflow: hidden;
+   
+}
+
+/* Header Styling */
+th {
+    background-color: #5757f0;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* Responsive Table */
+@media (max-width: 600px) {
+    table {
+        font-size: 14px;
+    }
+    td, th {
+        padding: 10px;
+    }
+}
